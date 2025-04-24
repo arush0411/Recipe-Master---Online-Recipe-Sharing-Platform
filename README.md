@@ -7,7 +7,7 @@ With RecipeHub, you can explore a diverse array of recipes, save your favorite o
 
 One of the standout features of RecipeHub is its ability to post your own culinary creations, similar to the way you'd share photos on Instagram. You can showcase your cooking prowess by uploading your recipes, complete with mouthwatering images, step-by-step instructions, and ingredient lists. Whether you're a seasoned chef or just starting your culinary journey, RecipeHub is the perfect digital kitchen companion, offering you a place to discover, share, and communicate with a vibrant community of fellow food enthusiasts.
 
-Live : [https://concerned-picture-9849-frontend.vercel.app/]
+
 
 ## Key Features
 
@@ -288,14 +288,8 @@ To run RecipeHub locally, follow these steps:
 
 
 
-## Contributors
 
-RecipeHub is a teamwork project. Meet our awesome teammates:
-- Ayushmaan Rajput(team lead) - Email: ayushmaanrajput25feb@gmail.com
-- Nishant Singh - Email: nishantkr488@gmail.com
-- Ranvijay Tiwari - Email: ranvijaytiwari0000@gmail.com
-- Vamshikrishna Bejjarapu - Email: vamshikrishna99089@gmail.com
 
-*Note: This group project was developed in 5 days.*
+
 <br>
 -------------------------------Thank You😊-----------------------------------------
